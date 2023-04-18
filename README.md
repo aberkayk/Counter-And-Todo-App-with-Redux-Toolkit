@@ -18,8 +18,7 @@
   <li>findIndex</li>
 </ul>
 <br>
-<br>
-<br>
 ![](./src/assets/zCounter.gif)
+
 <br>
 ![](./src/assets/zTodo.gif)
