@@ -1,5 +1,3 @@
-# Counter-Todo-App-with-Redux-Toolkit
-
 <h1>This App is created with ViteJS</h1>
 
 <h3>What dependencies in this app?</h3>
@@ -19,7 +17,11 @@
 </ul>
 
 <br>
+
 <br>
-![](./src/assets/zCounter.gif)
+
+![](/zCounter.gif)
+
 <br>
-![](./src/assets/zTodo.gif)
+
+![](/zTodo.gif)
