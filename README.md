@@ -16,9 +16,10 @@
   <li>splice</li>
   <li>map</li>
   <li>findIndex</li>
-
 </ul>
-
-![](./src/assets/calculator.png)
 <br>
-![](./src/assets/todo.png)
+<br>
+<br>
+![](./src/assets/zCounter.gif)
+<br>
+![](./src/assets/zTodo.gif)
