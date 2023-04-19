@@ -20,10 +20,7 @@
 
 <br>
 
-![](zCounter.gif)
-
 <img src="./zCounter.gif"/>
+
 <img src="./zTodo.gif"/>
 <br>
-
-![](zTodo.gif)
